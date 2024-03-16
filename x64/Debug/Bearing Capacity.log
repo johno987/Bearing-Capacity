@@ -1,0 +1,4 @@
+﻿  Bearing Capacity.cpp
+C:\Users\willj\source\repos\Bearing Capacity\Bearing Capacity.cpp(42,81): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\willj\source\repos\Bearing Capacity\Bearing Capacity.cpp(56): warning C4715: 'Capacity::returnCapacity': not all control paths return a value
+  Bearing Capacity.vcxproj -> C:\Users\willj\source\repos\Bearing Capacity\x64\Debug\Bearing Capacity.exe
